@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Descrição
-Este projeto tem como objetivo [descreva o objetivo principal do seu projeto]. Ele utiliza as seguintes tecnologias:
+## Tecnologias utilizadas
 
 * **PHP:** Para o desenvolvimento back-end e a interação com o banco de dados.
 * **MySQL:** Como sistema de gerenciamento de banco de dados para armazenar e organizar os dados.
